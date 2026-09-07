@@ -1,3 +1,18 @@
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg"
+  />
+  <img
+    alt="Animação das contribuições"
+    src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg"
+  />
+</picture>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:FC6100,100:8B0000&height=120&section=header"/>
 
 # Olá, eu sou o Bruno! 👋
