@@ -137,27 +137,6 @@ Trabalho principalmente com **Paper, Velocity e MySQL**, desenvolvendo sistemas 
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=bndsantos&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FC6100&icon_color=FC6100&text_color=FFFFFF&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bndsantos&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FC6100&text_color=FFFFFF&langs_count=8" alt="Linguagens mais utilizadas" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=bndsantos&theme=dark&hide_border=true&background=0D1117&ring=FC6100&fire=FC6100&currStreakLabel=FC6100" alt="Sequência de contribuições" />
-</div>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bndsantos&bg_color=0D1117&color=FFFFFF&line=FC6100&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de atividades" />
-</div>
-
-<div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=bndsantos&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Troféus do GitHub" />
-</div>
-
----
-
 ## 🐍 Minhas contribuições
 
 <div align="center">
