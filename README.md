@@ -16,6 +16,8 @@
 
 ---
 
+Meu servidor de testes: 143.14.168.212:26253 | Versão 1.21.11 +
+
 ## 👋 Sobre mim
 
 Sou o **Bruno Santos**, desenvolvedor Java focado na criação de plugins e sistemas para servidores Minecraft.
