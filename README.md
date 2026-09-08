@@ -28,7 +28,6 @@ Trabalho principalmente com **Paper, Velocity e MySQL**, desenvolvendo sistemas 
 - 🗄️ Persistência compartilhada com **MySQL/MariaDB**
 - 🔗 Integrações com APIs REST, webhooks e pagamentos
 - 🎮 Compatibilidade com jogadores Java e Bedrock
-- 🧪 Testes automatizados e builds reproduzíveis
 
 ---
 
@@ -181,7 +180,6 @@ Ideia → Planejamento → Arquitetura → Implementação → Testes → Build 
   <img src="https://img.shields.io/badge/Código-Modular-FC6100?style=for-the-badge" alt="Código modular" />
   <img src="https://img.shields.io/badge/Banco-Assíncrono-1F6FEB?style=for-the-badge" alt="Banco assíncrono" />
   <img src="https://img.shields.io/badge/Configuração-Documentada-36BC98?style=for-the-badge" alt="Configuração documentada" />
-  <img src="https://img.shields.io/badge/Testes-Automatizados-25A162?style=for-the-badge" alt="Testes automatizados" />
 </div>
 
 ---
