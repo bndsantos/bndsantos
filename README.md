@@ -141,20 +141,20 @@ Trabalho principalmente com **Paper, Velocity e MySQL**, desenvolvendo sistemas 
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FC6100&icon_color=FC6100&text_color=FFFFFF&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FC6100&text_color=FFFFFF&langs_count=8" alt="Linguagens mais utilizadas" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=bndsantos&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FC6100&icon_color=FC6100&text_color=FFFFFF&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bndsantos&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FC6100&text_color=FFFFFF&langs_count=8" alt="Linguagens mais utilizadas" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&hide_border=true&background=0D1117&ring=FC6100&fire=FC6100&currStreakLabel=FC6100" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com?user=bndsantos&theme=dark&hide_border=true&background=0D1117&ring=FC6100&fire=FC6100&currStreakLabel=FC6100" alt="Sequência de contribuições" />
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=FFFFFF&line=FC6100&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de atividades" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bndsantos&bg_color=0D1117&color=FFFFFF&line=FC6100&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de atividades" />
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Troféus do GitHub" />
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=bndsantos&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Troféus do GitHub" />
 </div>
 
 ---
@@ -163,9 +163,9 @@ Trabalho principalmente com **Paper, Velocity e MySQL**, desenvolvendo sistemas 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg" />
-    <img width="100%" alt="Animação das contribuições" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bndsantos/bndsantos/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bndsantos/bndsantos/output/github-snake.svg" />
+    <img width="100%" alt="Animação das contribuições" src="https://raw.githubusercontent.com/bndsantos/bndsantos/output/github-snake.svg" />
   </picture>
 </div>
 
@@ -192,8 +192,8 @@ Ideia → Planejamento → Arquitetura → Implementação → Testes → Build 
   <a href="SEU_LINK_DISCORD">
     <img src="https://img.shields.io/badge/Discord-SEU_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-SEU_USUARIO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/bndsantos">
+    <img src="https://img.shields.io/badge/GitHub-bndsantos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:SEU_EMAIL">
     <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
