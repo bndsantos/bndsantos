@@ -166,13 +166,13 @@ Ideia → Planejamento → Arquitetura → Implementação → Testes → Build 
 ## 📫 Contato
 
 <div align="center">
-  <a href="SEU_LINK_DISCORD">
-    <img src="https://img.shields.io/badge/Discord-SEU_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discord.com/invite/dhtmjkn_87135">
+    <img src="https://img.shields.io/badge/Discord-dhtmjkn_87135-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://github.com/bndsantos">
     <img src="https://img.shields.io/badge/GitHub-bndsantos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:ecombrunobp@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
