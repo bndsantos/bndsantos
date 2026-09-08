@@ -7,10 +7,10 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/SEU_USUARIO?tab=followers">
-    <img src="https://img.shields.io/github/followers/SEU_USUARIO?style=for-the-badge&logo=github&label=Seguidores&color=FC6100&labelColor=111111" alt="Seguidores" />
+  <a href="https://github.com/bndsantos?tab=followers">
+    <img src="https://img.shields.io/github/followers/bndsantos?style=for-the-badge&logo=github&label=Seguidores&color=FC6100&labelColor=111111" alt="Seguidores" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=FC6100&label=VISITAS" alt="Visitas ao perfil" />
+  <img src="https://komarev.com/ghpvc/?username=bndsantos&style=for-the-badge&color=FC6100&label=VISITAS" alt="Visitas ao perfil" />
   <img src="https://img.shields.io/badge/Disponível_para-projetos-36BC98?style=for-the-badge&labelColor=111111" alt="Disponível para projetos" />
 </div>
 
