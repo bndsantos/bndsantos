@@ -166,7 +166,7 @@ Ideia → Planejamento → Arquitetura → Implementação → Testes → Build 
 ## 📫 Contato
 
 <div align="center">
-  <a href="https://discord.com/invite/dhtmjkn_87135">
+  <a href="dhtmjkn_87135">
     <img src="https://img.shields.io/badge/Discord-dhtmjkn_87135-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://github.com/bndsantos">
